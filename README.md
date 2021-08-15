@@ -22,6 +22,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mahedi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mahedi-hasen-aa07201b7/) 
 [![Mail Badge](https://img.shields.io/badge/-@syedmahedihasen-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/syedmahedihasen)
 
+
+#### To know more visit:  [My portfolio](https://syedmahedi.github.io/portfolio.com/)
+
 <br><br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=syedmahedi.syedmahedi)
