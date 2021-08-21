@@ -18,7 +18,7 @@
 [![Mail Badge](https://img.shields.io/badge/-syedmahedi-c0392b?style=flat&labelColor=F62817&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-mahedi-1589FF?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mahedi-hasen-aa07201b7/) 
 [![Mail Badge](https://img.shields.io/badge/-@syedmahedihasen-FF69B4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/syedmahedihasen)
-[![Mail Badge](https://img.shields.io/badge/syedmahedi-2B65EC?style=flat&labelColor=808080&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
+[![Mail Badge](https://img.shields.io/badge/syedmahedi-2B65EC?style=flat&labelColor=151B54&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
 - #### To know more visit:  [My portfolio](https://syedmahedi.github.io/portfolio.com/)
 
