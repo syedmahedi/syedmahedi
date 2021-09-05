@@ -26,5 +26,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
 
 <br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syedmahedi&label=Profile%20views&color=7fd113&style=plastic" alt="syedmahedi" /> </p>
