@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mahedi-1589FF?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mahedi-hasen-aa07201b7/) 
 [![Mail Badge](https://img.shields.io/badge/-@syedmahedihasen-FF69B4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/syedmahedihasen)
 [![Mail Badge](https://img.shields.io/badge/syedmahedi-0a49c7?style=flat&labelColor=0063ff&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
-[![Mail Badge](https://img.shields.io/badge/YouTube-0a49c7?style=flat&labelColor=0063ff&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC280xF_9_fVhv7IaoaJV17Q)
+[![Mail Badge](https://img.shields.io/badge/YouTube-f52222?style=flat&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC280xF_9_fVhv7IaoaJV17Q)
 
 - #### To know more visit: [![Mail Badge](https://img.shields.io/badge/My_Portfolio-077d31?style=flat&labelColor=077d31&logo=websites&logoColor=white)](https://syedmahedi.github.io/portfolio.com/)
 - #### My Codeforces handle: [![Mail Badge](https://img.shields.io/badge/High__Hopes-1ff507?style=flat&labelColor=29d916&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
