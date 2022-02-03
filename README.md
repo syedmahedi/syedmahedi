@@ -23,7 +23,7 @@
 - #### To know more visit:  [My portfolio](https://syedmahedi.github.io/portfolio.com/)
 - #### My Codeforces handle: [![Mail Badge](https://img.shields.io/badge/High__Hopes-1ff507?style=flat&labelColor=29d916&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
 - #### My Hackerearth handle: [![Mail Badge](https://img.shields.io/badge/syedmahedi-033066?style=flat&labelColor=0550ab&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@syedmahedihasen207)
-- #### My kaggle handle: [![Mail Badge](https://img.shields.io/badge/syedmahedi-1698de?style=flat&labelColor=07a0f2&logo=hackerearth&logoColor=white)](https://www.kaggle.com/syedmahedi)
+- #### My kaggle handle: [![Mail Badge](https://img.shields.io/badge/syedmahedi-1698de?style=flat&labelColor=07a0f2&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmahedi)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
