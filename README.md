@@ -21,7 +21,7 @@
 [![Mail Badge](https://img.shields.io/badge/syedmahedi-0a49c7?style=flat&labelColor=0063ff&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 
 - #### To know more visit:  [My portfolio](https://syedmahedi.github.io/portfolio.com/)
-- #### My Codeforces handle: [Codeforces][![Mail Badge](https://img.shields.io/badge/High__Hopes-0a49c7?style=flat&labelColor=0063ff&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
+- #### My Codeforces handle: [![Mail Badge](https://img.shields.io/badge/High__Hopes-0a49c7?style=flat&labelColor=000000&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
