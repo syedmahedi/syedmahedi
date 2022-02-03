@@ -22,7 +22,7 @@
 [![Mail Badge](https://img.shields.io/badge/YouTube-f52222?style=flat&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC280xF_9_fVhv7IaoaJV17Q)
 
 - #### To know more visit: [![Mail Badge](https://img.shields.io/badge/My_Portfolio-077d31?style=flat&labelColor=077d31&logo=websites&logoColor=white)](https://syedmahedi.github.io/portfolio.com/)
-- #### My Codeforces handle: [![Mail Badge](https://img.shields.io/badge/High__Hopes-1ff507?style=flat&labelColor=29d916&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
+- #### My Codeforces handle: [![Mail Badge](https://img.shields.io/badge/High__Hopes-1ff507?style=flat&labelColor=29d916&logo=codeforces&logoColor=red)](https://codeforces.com/profile/High__Hopes)
 - #### My Hackerearth handle: [![Mail Badge](https://img.shields.io/badge/Hackerearth-033066?style=flat&labelColor=0550ab&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@syedmahedihasen207)
 - #### My kaggle handle: [![Mail Badge](https://img.shields.io/badge/Kaggle-1698de?style=flat&labelColor=0c8296&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmahedi)
 
