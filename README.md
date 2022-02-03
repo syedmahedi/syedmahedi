@@ -15,7 +15,7 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-syedmahedi-077d31?style=flat&labelColor=F62817&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-syedmahedi-c9231a?style=flat&labelColor=F62817&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-mahedi-1589FF?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mahedi-hasen-aa07201b7/) 
 [![Mail Badge](https://img.shields.io/badge/-@syedmahedihasen-FF69B4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/syedmahedihasen)
 [![Mail Badge](https://img.shields.io/badge/syedmahedi-0a49c7?style=flat&labelColor=0063ff&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
