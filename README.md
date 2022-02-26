@@ -23,9 +23,10 @@
 
 - #### To know more visit: [![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-077d31?style=flat&labelColor=077d31&logo=websites&logoColor=white)](https://syedmahedi.github.io/portfolio.com/)
 - #### My Codeforces handle: [![Codeforce Badge](https://img.shields.io/badge/Codeforces-ccf00?style=flat&labelColor=38a813&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
+- #### My AtCoder handle: [![AtCoder Badge](https://img.shields.io/badge/AtCoder-ebeef2?style=flat&labelColor=38a813&logo=AtCoder&logoColor=black)](https://atcoder.jp/users/syed_mahedi)
 - #### My Hackerearth handle: [![Hackerearth Badge](https://img.shields.io/badge/Hackerearth-033066?style=flat&labelColor=0550ab&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@syedmahedihasen207)
 - #### My kaggle handle: [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1698de?style=flat&labelColor=0c8296&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmahedi)
-- #### My AtCoder handle: [![AtCoder Badge](https://img.shields.io/badge/AtCoder-ccf00?style=flat&labelColor=38a813&logo=codeforces&logoColor=white)](https://atcoder.jp/users/syed_mahedi)
+
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
