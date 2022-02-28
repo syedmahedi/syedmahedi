@@ -38,9 +38,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-<br>
 <a href="https://github.com/syedmahedi">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350" height="300">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
 </a>
 <a href="https://github.com/syedmahedi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="400" height="270">
