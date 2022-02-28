@@ -31,7 +31,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C++/C++.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -46,7 +46,6 @@
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
-<br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350" height="250">
 
 
