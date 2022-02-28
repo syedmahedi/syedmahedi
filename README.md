@@ -23,7 +23,7 @@
 
 - #### To know more visit: [![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-077d31?style=flat&labelColor=077d31&logo=websites&logoColor=white)](https://syedmahedi.github.io/portfolio.com/)
 - #### My Codeforces handle: [![Codeforce Badge](https://img.shields.io/badge/Codeforces-ccf00?style=flat&labelColor=38a813&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
-- #### My AtCoder handle: [![AtCoder Badge](https://img.shields.io/badge/AtCoder-05ab5e?style=flat&labelColor=05ab5e&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/syed_mahedi)
+- #### My AtCoder handle: [![AtCoder Badge](https://img.shields.io/badge/AtCoder-f56016?style=flat&labelColor=f56016&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/syed_mahedi)
 - #### My Hackerearth handle: [![Hackerearth Badge](https://img.shields.io/badge/Hackerearth-033066?style=flat&labelColor=0550ab&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@syedmahedihasen207)
 - #### My kaggle handle: [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1698de?style=flat&labelColor=0c8296&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmahedi)
 
