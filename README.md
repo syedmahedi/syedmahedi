@@ -43,10 +43,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350" height="250">
 
 
-<br>
 <div align="center">
+  
 ### Show some ❤️ by starring some of the repositories!
+  
 </div>
 
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syedmahedi&label=Profile%20views&color=7fd113&style=plastic" alt="syedmahedi" /> </p>
