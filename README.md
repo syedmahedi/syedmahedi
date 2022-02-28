@@ -40,10 +40,10 @@
 
 <br>
 <a href="https://github.com/syedmahedi">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350" height="250">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350" height="300">
 </a>
 <a href="https://github.com/syedmahedi">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="400" height="300">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="400" height="270">
 </a>
 
 
