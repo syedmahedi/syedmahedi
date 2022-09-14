@@ -51,7 +51,7 @@
   
 </div>
 <!-- HTML -->
-<p align="center"> <img height="110" width="470" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
+<p align="center"> <img height="110" width="500" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syedmahedi&label=Profile%20views&color=7fd113&style=plastic" alt="syedmahedi" /> </p>
