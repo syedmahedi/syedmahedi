@@ -3,7 +3,7 @@
 <h1 align="center">As-salāmuʿAlaykum, I'm <a href="https://syedmahedi.github.io/portfolio.com/"> Mahedi </a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35 alt="hi"></h1>
 
 <!-- - 🔭 I’m currently working on ... -->
-- I’m currently learning **Competitive programming & Machine Learning** ...
+- I’m currently learning **Problem Solving & Web development** ...
 - Pronouns: He/His
 - Fun fact: Traveling,Video Making and Editting.
 
