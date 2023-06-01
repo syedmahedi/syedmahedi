@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io) -->
 
-<h1 align="center">As-salāmuʿAlaykum, I'm <a href="https://syedmahedi.github.io/portfolio.com/"> Mahedi </a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35 alt="hi"></h1>
+<h1 align="center">As-salāmuʿAlaykum, I'm <a href="https://mahedi-portfolio-fc4bf.web.app/"> Mahedi </a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35 alt="hi"></h1>
 
 <!-- - 🔭 I’m currently working on ... -->
 - I’m currently learning **Problem Solving & Web development** ...
