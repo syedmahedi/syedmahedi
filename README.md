@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Junior Software Engineer passionate about building **scalable, real-world systems** that make a difference. Currently focused on full-stack web development with a growing interest in product engineering.
+I'm a Junior Software Engineer passionate about building **scalable, real-world systems** that make a difference. Currently focused on frontend web development with a growing interest in product engineering.
 
 -  Building a **multi-tenant Patient Portal SaaS** with biometric tracking & dynamic modules
 -  Crafting performant UIs with **React & Next.js**, backed by robust **REST APIs**
