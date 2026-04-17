@@ -1,57 +1,114 @@
-<!-- [![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io) -->
+<div align="center">
 
-<h1 align="center">As-salāmuʿAlaykum, I'm <a href="https://mahedi-portfolio-fc4bf.web.app/"> Mahedi </a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35 alt="hi"></h1>
+# As-salāmu ʿAlaykum, I'm Mahedi
 
-<!-- - 🔭 I’m currently working on ... -->
-- I’m currently learning **Problem Solving & Web development** ...
-- Pronouns: He/His
-- Fun fact: Traveling,Video Making and Editting.
+**Junior Software Engineer · Full-Stack Developer · Problem Solver**
 
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with... -->
-<!-- - 💬 Ask me about ... -->
-
-<img align="right" alt="Coder GIF" height=250 width=450 src="https://media0.giphy.com/media/Ah3zHH7hvsSB2/200w.webp?cid=ecf05e47k1zvw05i1dhywenegyp0s949d48xsz8b8mgfv65n&rid=200w.webp&ct=g" />
-
-:mailbox: Reach me out!
-
-[![Mail Badge](https://img.shields.io/badge/-syedmahedi-c9231a?style=flat&labelColor=F62817&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-mahedi-1589FF?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mahedi-hasen-aa07201b7/) 
-[![Instagram Badge](https://img.shields.io/badge/-@syedmahedihasen-FF69B4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/syedmahedihasen)
-[![Telegram Badge](https://img.shields.io/badge/syedmahedi-0a49c7?style=flat&labelColor=0063ff&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-f52222?style=flat&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC280xF_9_fVhv7IaoaJV17Q)
-
-- #### To know more visit: [![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-077d31?style=flat&labelColor=077d31&logo=websites&logoColor=white)](https://mahedi-portfolio-fc4bf.web.app/)
-- #### My Codeforces handle: [![Codeforce Badge](https://img.shields.io/badge/Codeforces-ccf00?style=flat&labelColor=38a813&logo=codeforces&logoColor=white)](https://codeforces.com/profile/High__Hopes)
-- #### My AtCoder handle: [![AtCoder Badge](https://img.shields.io/badge/AtCoder-f56016?style=flat&labelColor=f56016&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/syed_mahedi)
-- #### My Hackerearth handle: [![Hackerearth Badge](https://img.shields.io/badge/Hackerearth-033066?style=flat&labelColor=0550ab&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@syedmahedihasen207)
-- #### My kaggle handle: [![Kaggle Badge](https://img.shields.io/badge/Kaggle-1698de?style=flat&labelColor=0c8296&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmahedi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-160856?style=for-the-badge&logo=&logoColor=white)](https://mahedi-portfolio-fc4bf.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmahedi1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
 
 
-**Languages and Tools:**  
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+</div>
 
 
-<a href="https://github.com/syedmahedi">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="350">
-</a>
-<a href="https://github.com/syedmahedi">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=39d353&amp;text_color=daf7dc&amp;bg_color=0d1117" style="max-width:100%;" width="400" height="270">
-</a>
+## About Me
+
+I'm a Junior Software Engineer passionate about building **scalable, real-world systems** that make a difference. Currently focused on full-stack web development with a growing interest in product engineering.
+
+-  Building a **multi-tenant Patient Portal SaaS** with biometric tracking & dynamic modules
+-  Crafting performant UIs with **React & Next.js**, backed by robust **REST APIs**
+-  Strong foundation in **Data Structures, Algorithms & Problem Solving**
+-  Goal: Grow into a **high-impact, product-focused engineer**
+
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+
+## Featured Projects
+
+### 🏥 Patient Portal SaaS
+> Multi-tenant healthcare platform with biometric tracking, role-based access, and dynamic modules.
+
+**Stack:** React · REST APIs · Multi-tenancy Architecture
+
+
+### 🍲 eFoodBD — Food Marketplace
+> Full-stack marketplace with authentication, vendor dashboards, and real-time order tracking.
+
+**Stack:** Next.js · Node.js · Express · MySQL
+
+
+### 🎟️ Hall Food Coupon System
+> Java desktop application with GUI for meal coupon booking and management.
+
+**Stack:** Java · Swing GUI
+
+
+## Achievements
+
+|  Achievement | Details |
+|---|---|
+| 🧩 Codeforces | 250+ problems solved |
+| 🧠 LeetCode | 50+ problems solved |
+| 🥈 IEEE CUET SB | Qualified for Face the Case 2.0 |
+| 💡 Competitive Programming | Actively participating in contests |
+
+
+
+## GitHub Stats
 
 <div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="340"/>
+
 </div>
-<!-- HTML -->
-<p align="center"> <img height="110" width="500" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=syedmahedi&label=Profile%20views&color=7fd113&style=plastic" alt="syedmahedi" /> </p>
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000?style=for-the-badge)](https://mahedi-portfolio-fc4bf.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmahedi1)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
+
+</div>
+
+
+<div align="center">
+
+*"I don't just write code — I solve problems and build impactful systems."*
+
+</div>
