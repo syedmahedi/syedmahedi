@@ -93,9 +93,9 @@ I'm a Junior Software Engineer passionate about building **scalable, real-world 
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syedmahedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" width="420"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="340"/>
 
 </div>
@@ -114,6 +114,6 @@ I'm a Junior Software Engineer passionate about building **scalable, real-world 
 
 <div align="center">
 
-*"I don't just write code — I solve problems and build impactful systems."*
+*I don't just write code — I solve problems and build impactful systems.*
 
 </div>
