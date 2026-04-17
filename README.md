@@ -68,7 +68,7 @@ I'm a Junior Software Engineer passionate about building **scalable, real-world 
 
 **Stack:** Next.js · Node.js · Express · MySQL
 
-### 🛒 Doakni — Inventory Management (Personal)
+### 🛒 Dokani — Inventory Management (Personal)
 > Offline inventory and transaction manager for local shops with stock and dues tracking.
 
 **Stack:** Next.js · Express · Supabase
