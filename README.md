@@ -57,19 +57,19 @@ I'm a Junior Software Engineer passionate about building **scalable, real-world 
 
 ## Featured Projects
 
-### 🏥 Patient Portal SaaS
+### 🏥 Patient Portal SaaS (company)
 > Multi-tenant healthcare platform with biometric tracking, role-based access, and dynamic modules.
 
 **Stack:** React · REST APIs · Multi-tenancy Architecture
 
 
-### 🍲 eFoodBD — Food Marketplace
+### 🍲 eFoodBD — Food Marketplace (Personal)
 > Full-stack marketplace with authentication, vendor dashboards, and real-time order tracking.
 
 **Stack:** Next.js · Node.js · Express · MySQL
 
 
-### 🎟️ Hall Food Coupon System
+### 🎟️ Hall Food Coupon System (Personal)
 > Java desktop application with GUI for meal coupon booking and management.
 
 **Stack:** Java · Swing GUI
