@@ -105,7 +105,7 @@ I'm a Junior Software Engineer passionate about building **scalable, real-world 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000?style=for-the-badge)](https://mahedi-portfolio-fc4bf.web.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000?style=for-the-badge)](https://syedmahedi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmahedi1)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
 
