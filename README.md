@@ -4,7 +4,7 @@
 
 **Junior Software Engineer · Full-Stack Developer · Problem Solver**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-160856?style=for-the-badge&logo=&logoColor=white)](https://syedmahedi.vercel.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-160856?style=for-the-badge&logo=&logoColor=white)](https://syedmahedi.vercel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmahedi1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmahedihasen207@gmail.com)
 
